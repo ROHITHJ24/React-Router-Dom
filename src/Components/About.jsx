@@ -11,7 +11,6 @@ function About() {
         </p>
       </section>
 
-      {/* Mission Statement */}
       <section className="mission">
         <h2>Our Mission</h2>
         <p>
@@ -19,7 +18,7 @@ function About() {
         </p>
       </section>
 
-      {/* Team Section */}
+     
       <section className="team">
         <h2>Meet Our Team</h2>
         <p>
@@ -35,7 +34,7 @@ function About() {
         </ul>
       </section>
 
-      {/* Contact Information */}
+      
       <section className="contact">
         <h2>Contact Us</h2>
         <p>If you have any questions or feedback, feel free to get in touch with us:</p>
